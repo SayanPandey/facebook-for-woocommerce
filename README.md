@@ -6,7 +6,7 @@
 
 ## 🎉 Welcome to Our Open-Source Project! 🎉
 
-# We are thrilled to invite you to contribute to our project and be part of an amazing community. Your ideas, code, and feedback are invaluable to us!
+### We are thrilled to invite you to contribute to our project and be part of an amazing community. Your ideas, code, and feedback are invaluable to us!
 
 💻 Join Us Today! 🌟
 
