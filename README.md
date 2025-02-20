@@ -2,7 +2,7 @@
 
 [![PHP Coding Standards](https://github.com/woocommerce/facebook-for-woocommerce/actions/workflows/php-cs-on-changes.yml/badge.svg)](https://github.com/woocommerce/facebook-for-woocommerce/actions/workflows/php-coding-standards.yml)
 
-![Banner top GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p4a3NzOW95dzMzd2ZzMng2MjZqdWJsMTBpZDNxYTM2NmlhazIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif)
+![Banner top GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p4a3NzOW95dzMzd2ZzMng2MjZqdWJsMTBpZDNxYTM2NmlhazIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif) ![Banner top GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p4a3NzOW95dzMzd2ZzMng2MjZqdWJsMTBpZDNxYTM2NmlhazIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif)
 
 🎉 Welcome to Our Open-Source Project! 🎉
 
@@ -10,12 +10,12 @@ We are thrilled to invite you to contribute to our project and be part of an ama
 
 💻 Join Us Today! 🌟
 
-![Excited GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw0aHV4bTJpdjA1OGJ3dmt6eGJvYTBlN3A4MHhmaWp2Zm5rYXFtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMinksTUtYZFw60CfI/giphy.gif) ![Excited GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw0aHV4bTJpdjA1OGJ3dmt6eGJvYTBlN3A4MHhmaWp2Zm5rYXFtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMinksTUtYZFw60CfI/giphy.gif)
+![Excited GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw0aHV4bTJpdjA1OGJ3dmt6eGJvYTBlN3A4MHhmaWp2Zm5rYXFtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMinksTUtYZFw60CfI/giphy.gif)
 
 
 Happy contributing! 🚀
 
-![Banner bottom GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p4a3NzOW95dzMzd2ZzMng2MjZqdWJsMTBpZDNxYTM2NmlhazIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif)
+![Banner bottom GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p4a3NzOW95dzMzd2ZzMng2MjZqdWJsMTBpZDNxYTM2NmlhazIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif) ![Banner bottom GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p4a3NzOW95dzMzd2ZzMng2MjZqdWJsMTBpZDNxYTM2NmlhazIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif)
 
 This is the development repository for the Facebook for WooCommerce plugin.
 
