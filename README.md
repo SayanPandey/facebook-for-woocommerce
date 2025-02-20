@@ -2,6 +2,14 @@
 
 [![PHP Coding Standards](https://github.com/woocommerce/facebook-for-woocommerce/actions/workflows/php-cs-on-changes.yml/badge.svg)](https://github.com/woocommerce/facebook-for-woocommerce/actions/workflows/php-coding-standards.yml)
 
+<div style="animation: changeColor 10s infinite; color: #ffffff; padding: 16px 24px;">
+ <div style="font-size: 16px; font-weight: bold;">Favoriting Cards or Folders and Creating Favorite Card Lists in Guru ⚡️</div>
+ <div style="font-size: 12px; font-weight: bold; color:#000000;">
+ Favoriting in Guru allows you to access your most useful Cards and Folders quickly, and you can filter for your Favorites to easily find them. You can organize favorited Cards and curate your knowledge into easily accessible and searchable lists, regardless of Folder or Collection.
+ </div>
+</div>
+</br>
+
 This is the development repository for the Facebook for WooCommerce plugin.
 
 - [WooCommerce.com product page](https://woocommerce.com/products/facebook/)
