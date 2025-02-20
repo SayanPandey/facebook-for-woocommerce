@@ -4,7 +4,8 @@
 
 ![Banner top GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p4a3NzOW95dzMzd2ZzMng2MjZqdWJsMTBpZDNxYTM2NmlhazIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif) 
 
-![Banner top GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJuM3RocXZxNmp2bHA5cW9pbG5ibTBub3h3ZjdybWlnbGR0NGhheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nhW9Oxyu2FeAkqZyc7/giphy.gif) 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw0aHV4bTJpdjA1OGJ3dmt6eGJvYTBlN3A4MHhmaWp2Zm5rYXFtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMinksTUtYZFw60CfI/giphy.gif" alt="Dancing Man" style="width:100%; max-width:600px;">
+
 
 ### We are thrilled to invite you to contribute to our project and be part of an amazing community.Your ideas, code, and feedback are invaluable to us!
 
