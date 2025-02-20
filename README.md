@@ -12,7 +12,8 @@
 
 ## Happy contributing! 🚀
 
-![Banner bottom GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p4a3NzOW95dzMzd2ZzMng2MjZqdWJsMTBpZDNxYTM2NmlhazIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif)
+![Banner bottom GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p4a3NzOW95dzMzd2ZzMng2MjZqdWJsMTBpZDNxYTM2NmlhazIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif) 
+
 This is the development repository for the Facebook for WooCommerce plugin.
 
 - [WooCommerce.com product page](https://woocommerce.com/products/facebook/)
