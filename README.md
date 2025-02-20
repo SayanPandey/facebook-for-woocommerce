@@ -10,8 +10,7 @@
 
 # 💻 Join Us Today! 🌟
 
-![Excited GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw0aHV4bTJpdjA1OGJ3dmt6eGJvYTBlN3A4MHhmaWp2Zm5rYXFtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMinksTUtYZFw60CfI/giphy.gif) ![Excited GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA1cG45eWk1cWRzeHRvbjR6Y3MxM3ptdjdqcjFwbGIwemlnaHl6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/noqUFXGNuZDLG/giphy.gif)
-
+![Excited GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw0aHV4bTJpdjA1OGJ3dmt6eGJvYTBlN3A4MHhmaWp2Zm5rYXFtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMinksTUtYZFw60CfI/giphy.gif) 
 
 ## Happy contributing! 🚀
 
