@@ -10,7 +10,7 @@ We are thrilled to invite you to contribute to our project and be part of an ama
 
 💻 Join Us Today! 🌟
 
-![Excited GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw0aHV4bTJpdjA1OGJ3dmt6eGJvYTBlN3A4MHhmaWp2Zm5rYXFtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMinksTUtYZFw60CfI/giphy.gif)
+![Excited GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw0aHV4bTJpdjA1OGJ3dmt6eGJvYTBlN3A4MHhmaWp2Zm5rYXFtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMinksTUtYZFw60CfI/giphy.gif) ![Excited GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw0aHV4bTJpdjA1OGJ3dmt6eGJvYTBlN3A4MHhmaWp2Zm5rYXFtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMinksTUtYZFw60CfI/giphy.gif)
 
 
 Happy contributing! 🚀
