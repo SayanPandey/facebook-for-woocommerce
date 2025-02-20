@@ -4,8 +4,7 @@
 
 ![Banner top GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p4a3NzOW95dzMzd2ZzMng2MjZqdWJsMTBpZDNxYTM2NmlhazIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif) 
 
-### We are thrilled to invite you to contribute to our project and be part of an amazing community.
-### Your ideas, code, and feedback are invaluable to us!
+### We are thrilled to invite you to contribute to our project and be part of an amazing community.Your ideas, code, and feedback are invaluable to us!
 
 # 🌟 Join Us Today! 🌟
 
