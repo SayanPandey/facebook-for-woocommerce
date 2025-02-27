@@ -10,7 +10,7 @@ Grow your business on Facebook and Instagram. Easily promote your products and t
 - Sell from one inventory that automatically syncs to your catalog used for ads
 
 
-This is the development repository for the Facebook for WooCommerce plugin.
+### This is the development repository for the Facebook for WooCommerce plugin.
 
 - [WooCommerce.com product page](https://woocommerce.com/products/facebook/)
 - [WordPress.org plugin page](https://wordpress.org/plugins/facebook-for-woocommerce/)
