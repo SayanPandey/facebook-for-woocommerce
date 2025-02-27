@@ -1,18 +1,14 @@
-# Facebook for WooCommerce
+# The Facebook for WooCommerce plugin is now an official app from Meta.
 
 [![PHP Coding Standards](https://github.com/woocommerce/facebook-for-woocommerce/actions/workflows/php-cs-on-changes.yml/badge.svg)](https://github.com/woocommerce/facebook-for-woocommerce/actions/workflows/php-coding-standards.yml)
 
-![Banner top GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p4a3NzOW95dzMzd2ZzMng2MjZqdWJsMTBpZDNxYTM2NmlhazIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif) 
+**We're excited to announce that the app is now owned by Meta, and we invite the developer community to join us in shaping its future through contributions.**
 
-### We are thrilled to invite you to contribute to our project and be part of an amazing community.Your ideas, code, and feedback are invaluable to us!
+Grow your business on Facebook and Instagram. Easily promote your products and target accurately using powerful sales and marketing tools. Reach new customers and drive traffic to your website with seamless ad experiences, from discovery to conversion. Automatically sync your eligible products to your Meta catalog, so you can easily create ads right where your customers are.
+- Help drive better ad performance by setting up a conversion pixel
+- Easily set up your ads with a one-time account connection
+- Sell from one inventory that automatically syncs to your catalog used for ads
 
-# 🌟 Join Us Today! 🌟
-
-![Excited GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw0aHV4bTJpdjA1OGJ3dmt6eGJvYTBlN3A4MHhmaWp2Zm5rYXFtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMinksTUtYZFw60CfI/giphy.gif) 
-
-### Happy contributing! 🚀
-
-![Banner bottom GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p4a3NzOW95dzMzd2ZzMng2MjZqdWJsMTBpZDNxYTM2NmlhazIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif) 
 
 This is the development repository for the Facebook for WooCommerce plugin.
 
