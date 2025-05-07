@@ -87,6 +87,9 @@ class WC_Facebook_Loader {
 	 * @since 1.10.0
 	 */
 	protected function __construct() {
+		/**
+		 * The following handler will check for plugin updates
+		 */
 
 		register_activation_hook( __FILE__, array( $this, 'activation_check' ) );
 
