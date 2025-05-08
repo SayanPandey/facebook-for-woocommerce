@@ -13,11 +13,16 @@ defined( 'ABSPATH' ) || exit;
 
 class PluginUpdate {
 
-    public function __construct() {
-        $this->init();
+    private \WC_Facebookcommerce $plugin;
+    const ALL_PRODUCTS_PLUGIN_VERSION = '3.4.5';
+
+    public function __construct(\WC_Facebookcommerce $plugin) {
+        $this->plugin = $plugin;
+        $this->add_hooks();
+        $this->should_show_sync_all_banner();
     }
 
-    private static function init() {
+    private static function add_hooks() {
         add_action( 'upgrader_process_complete', [ __CLASS__, 'on_plugin_update' ], 10, 2 );
     }
 
@@ -34,6 +39,13 @@ class PluginUpdate {
                     // 👉 Add your upgrade logic here
                 }
             }
+        }
+    }
+
+    public function should_show_sync_all_banner() {
+        $current_version = $this->plugin->get_version();
+        if($current_version >= self::ALL_PRODUCTS_PLUGIN_VERSION){
+            // Update database !!
         }
     }
 }
